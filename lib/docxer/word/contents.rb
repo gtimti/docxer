@@ -1,0 +1,6 @@
+require 'docxer/word/contents/break'
+require 'docxer/word/contents/text'
+require 'docxer/word/contents/table_of_content'
+require 'docxer/word/contents/image'
+require 'docxer/word/contents/paragraph'
+require 'docxer/word/contents/table'
