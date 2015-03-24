@@ -2,8 +2,8 @@ Gem::Specification.new do |s|
   s.name        = 'docxer'
   s.version     = '0.7.1'
   s.date        = '2012-03-20'
-  s.summary     = 'Docx generator'
-  s.description = 'Awesome Docx Generator'
+  s.summary     = 'docx files generator'
+  s.description = 'Provides ability to create docx documents using Ruby'
   s.authors     = ["Timur Gabdrakipov"]
   s.email       = 'gtimti@gmail.com'
   s.homepage    = 'http://github.com/gtimti/docxer'
